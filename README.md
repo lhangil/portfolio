@@ -42,6 +42,10 @@
 
 *Python, Dlib, OpenCV
 
+*GitHub Repository : (https://github.com/lhangil/eye_detect.git)
+
+*목표: 실시간 웹캠 화면에서 얼굴을 인식, 눈 감음 여부를 분석
+
 세부기능
 
 1. 얼굴 인식 및 랜드마크 검출
