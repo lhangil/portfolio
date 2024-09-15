@@ -1,20 +1,20 @@
 # portfolio
 
-음식점 웹사이트 (개인)
-2024.06.23 ~ 2024.07.10
+* 음식점 웹사이트 (개인)
+* 2024.06.23 ~ 2024.07.10
 
-java, jsp, css, sql
+* java, jsp, css, sql
 
-담당역할 : 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
+* 담당역할 : 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
 
-GitHub Repository :https://github.com/Yang-Seungjae/Python/tree/master/CCTV%20project
+* GitHub Repository :https://github.com/Yang-Seungjae/Python/tree/master/CCTV%20project
 
-시연영상 : https://drive.google.com/file/d/1qXHIiDydWtNpKVxWAzWZ_SMguZDzs7OY/view?usp=sharing
+* 시연영상 : https://drive.google.com/file/d/1qXHIiDydWtNpKVxWAzWZ_SMguZDzs7OY/view?usp=sharing
 
-이 프로젝트는 사용자가 편리하게 음식점 예약을 할 수 있도록 돕고,음식점의 위치를 확인할 수 있습니다.
-관리자는 페이지를 통해서 예약 상황과, 회원들의 리뷰, 평점을 확인할 수 있습니다.
+* 사용자가 편리하게 음식점 예약을 할 수 있도록 돕고,음식점의 위치를 확인
+  관리자는 페이지를 통해서 예약, 회원들의 리뷰, 평점을 확인
 
-실무에서 활용 가능한 웹 개발 기술을 습득하고, 데이터베이스와의 연동을 통해 데이터 처리 능력을 향상시키는 것을 목표로 했습니다.
+  
 
 
 
@@ -36,3 +36,4 @@ GitHub Repository :https://github.com/Yang-Seungjae/Python/tree/master/CCTV%20pr
 
 ![스크린샷 2024-09-15 154401](https://github.com/user-attachments/assets/ad468cbd-a31b-4c78-9e71-c70025e71940)
 
+실무에서 활용 가능한 웹 개발 기술을 습득하고, 데이터베이스와의 연동을 통해 데이터 처리 능력을 향상시키는 것을 목표로 했습니다.
