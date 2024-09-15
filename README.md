@@ -7,7 +7,7 @@
 
 * 담당역할 : 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
 
-* GitHub Repository :https://github.com/Yang-Seungjae/Python/tree/master/CCTV%20project
+* GitHub Repository :(https://github.com/lhangil/restaurant-web)
 
 * 시연영상 : https://drive.google.com/file/d/1qXHIiDydWtNpKVxWAzWZ_SMguZDzs7OY/view?usp=sharing
 
