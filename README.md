@@ -45,21 +45,21 @@
 세부기능
 
 1. 얼굴 인식 및 랜드마크 검출
--Dlib 라이브러리를 사용하여 실시간으로 얼굴을 검출하고, 얼굴의 랜드마크(특징점)를 추출
--얼굴 검출 후 68개의 랜드마크 점을 표시하여 시각적으로 확인할 수 있도록 합니다​
+-Dlib 라이브러리를 사용하여 실시간으로 얼굴을 검출, 얼굴의 랜드마크(특징점)를 추출
+-얼굴 검출 후 68개의 랜드마크 점을 표시하여 시각적으로 확인
 
 2. 눈 감음 감지
 -랜드마크에서 눈 좌표를 계산하여 눈 영역에 박스를 표시합니다
--눈이 감겼을 때와 떴을 때를 감지하고, 이를 0.0(눈 감음)과 1.0(눈 뜸)으로 표시합니다
+-눈이 감겼을 때와 떴을 때를 감지하고, 이를 0.0(눈 감음)과 1.0(눈 뜸)으로 표시
+-예측 결과를 기반으로 눈 감음 상태가 지속되면 "SLEEPING.... z" 메시지
 
-3. 실시간 웹캠 화면 처리
--OpenCV를 사용하여 웹캠에서 실시간 화면을 받아 얼굴 인식과 랜드마크 검출 작업을 수행합니다​
+4. 실시간 웹캠 화면 처리
+-OpenCV를 사용하여 웹캠에서 실시간 화면을 받아 얼굴 인식과 랜드마크 검출 작업을 수행
 -BGR에서 RGB로 변환 후 저장
 
-![스크린샷 2024-09-13 155915 width="40%" height="30%"](https://github.com/user-attachments/assets/2b523b85-a46c-4377-bc95-439405d9fecd)
-
-
-
+<img src="https://github.com/user-attachments/assets/2b523b85-a46c-4377-bc95-439405d9fecd" width="33%" />
+<img src="https://github.com/user-attachments/assets/a903ff2f-bf4f-4365-a007-9733f41a9831" width="33%" />
+<img src="https://github.com/user-attachments/assets/25e00ed9-b171-48d9-ad64-647532a7adc5" width="33%" />
 
 ***
 
@@ -69,7 +69,7 @@
 * 2024.06.09 ~ 2024.06.14
 
 * java, jsp, css, sql
-
+>
 * 담당역할 : 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
 
 * GitHub Repository :https://github.com/Yang-Seungjae/Python/tree/master/CCTV%20project
