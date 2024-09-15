@@ -56,7 +56,7 @@
 -OpenCV를 사용하여 웹캠에서 실시간 화면을 받아 얼굴 인식과 랜드마크 검출 작업을 수행합니다​
 -BGR에서 RGB로 변환 후 저장
 
-![스크린샷 2024-09-13 155915](https://github.com/user-attachments/assets/2b523b85-a46c-4377-bc95-439405d9fecd width="40%" height="30%")
+![스크린샷 2024-09-13 155915 width="40%" height="30%"](https://github.com/user-attachments/assets/2b523b85-a46c-4377-bc95-439405d9fecd)
 
 
 
