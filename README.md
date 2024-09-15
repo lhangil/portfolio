@@ -7,7 +7,7 @@
 
 * 담당역할 : 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
 
-* GitHub Repository :(https://github.com/lhangil/restaurant-web)
+* GitHub Repository :(https://github.com/lhangil/restaurant)
 
 * 시연영상 : https://drive.google.com/file/d/1qXHIiDydWtNpKVxWAzWZ_SMguZDzs7OY/view?usp=sharing
 
@@ -76,7 +76,7 @@
 >
 * 담당역할 : 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
 
-* GitHub Repository :https://github.com/Yang-Seungjae/Python/tree/master/CCTV%20project
+* GitHub Repository :https://github.com/lhangil/email-project
 
 * 시연영상 : https://drive.google.com/file/d/1XjiiSj0MGBkJOIZeI9b7cW8vVLPShRRn/view?usp=sharing
 
