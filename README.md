@@ -77,6 +77,8 @@
 
 * Python, YOLO, OpenCV
 
+* *GitHub Repository (https://github.com/lhangil/hand-detect)
+
 * 목표: 실시간 웹캠에서 손을 인식, 탐지된 수어를 표시
 
 * 세부기능
