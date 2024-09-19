@@ -91,9 +91,9 @@
 3. 수어 탐지 결과 출력  
 -YOLO 모델이 탐지한 수어 제스처에 대해  수어 제스처의 종류 및 신뢰도 출력
 
-<img src = "https://github.com/user-attachments/assets/e32d5851-f844-474d-a90a-b33661b3599b" width="44% />  
-<img src = "https://github.com/user-attachments/assets/ef628eb2-9f28-422d-8ab1-b58a40b8e7df" width="44% />  
-<img src = "https://github.com/user-attachments/assets/b19a6996-d1db-4b67-93d3-89c596ed26ae" width="44% />  
+<img src="https://github.com/user-attachments/assets/e32d5851-f844-474d-a90a-b33661b3599b" width="44%" />  
+<img src="https://github.com/user-attachments/assets/ef628eb2-9f28-422d-8ab1-b58a40b8e7df" width="44%" />  
+<img src="https://github.com/user-attachments/assets/b19a6996-d1db-4b67-93d3-89c596ed26ae" width="44%" />  
 
 
 
