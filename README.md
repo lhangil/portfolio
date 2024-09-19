@@ -61,9 +61,9 @@
 -OpenCV를 사용하여 웹캠에서 실시간 화면을 받아 얼굴 인식과 랜드마크 검출 작업을 수행
 -BGR에서 RGB로 변환 후 저장
 
-<img src="https://github.com/user-attachments/assets/2b523b85-a46c-4377-bc95-439405d9fecd" width="33%" />
-<img src="https://github.com/user-attachments/assets/a903ff2f-bf4f-4365-a007-9733f41a9831" width="33%" />
-<img src="https://github.com/user-attachments/assets/25e00ed9-b171-48d9-ad64-647532a7adc5" width="33%" />
+<img src="https://github.com/user-attachments/assets/2b523b85-a46c-4377-bc95-439405d9fecd" width="44%" />
+<img src="https://github.com/user-attachments/assets/a903ff2f-bf4f-4365-a007-9733f41a9831" width="44%" />
+<img src="https://github.com/user-attachments/assets/25e00ed9-b171-48d9-ad64-647532a7adc5" width="44%" />
 
 ***
 
@@ -80,12 +80,19 @@
 -OpenCV를 사용하여 실시간으로 웹캠 화면을 가져오고, YOLO 모델을 통해 수어를 인식
 
 2. 손 인식 및 수어 탐지  
--웹캠 화면에서 손이 인식되면 "Detect Hand!!"라는 메시지를 출력​  
 -손이 없는 경우 별도의 메시지 없이 화면만 출력  
 
 
 3. 수어 탐지 결과 출력  
 -YOLO 모델이 탐지한 수어 제스처에 대해  수어 제스처의 종류 및 신뢰도 출력
+
+<img src = "https://github.com/user-attachments/assets/e32d5851-f844-474d-a90a-b33661b3599b" width="44% />
+<img src = "https://github.com/user-attachments/assets/ef628eb2-9f28-422d-8ab1-b58a40b8e7df" width="44% />
+<img src = "https://github.com/user-attachments/assets/b19a6996-d1db-4b67-93d3-89c596ed26ae" width="44% />)
+
+
+
+
 
 
 
